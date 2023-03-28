@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = ListaEncadeada
 EXT = .cpp
-SRCDIR = \Users\gviei\Documents\GitClone\Exercicios-de-programacao\Estrutura_de_Dados
+SRCDIR = /c/Users/gviei/Documents/GitClone/Exercicios-de-programacao
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
